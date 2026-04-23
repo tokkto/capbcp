@@ -7,6 +7,10 @@ using {
 namespace sap.capire.incidents;
 
 /**
+* Changed by EcM on 22.04.2026
+*/
+
+/**
 * Incidents created by Customers.
 */
 entity Incidents : cuid, managed {
